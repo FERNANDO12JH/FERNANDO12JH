@@ -1,37 +1,34 @@
-<h1 align="center">¡Hola! Soy Fernando 👋</h1>
-<h3 align="center">Estudiante de Ingeniería de Software | Fundador de SoconuscoCode</h3>
+<div align="center">
+  <h1>José Fernando Domínguez Monzón</h1>
+  <h3>Estudiante de Ingeniería en Desarrollo y Tecnologías de Software | Fundador de SoconuscoCode</h3>
+</div>
 
-<p align="center">
-  Apasionado por el desarrollo web y la creación de software que resuelve problemas reales. 
-  Actualmente enfocado en el desarrollo de plataformas SaaS y aprendiendo nuevas tecnologías.
+<hr>
+
+## Perfil Profesional
+Estudiante de segundo semestre en la UNACH (Tapachula). Orientado a la creación de infraestructura tecnológica y soluciones de software escalables. Actualmente desarrollando investigación académica sobre la Ingeniería Social Aplicada a los Sistemas de Información.
+
+## Proyectos Destacados
+* **Medikay (SaaS):** Desarrollo arquitectónico y lógico de una plataforma médica integral, diseñada para optimizar la gestión operativa de clínicas y la atención digital a pacientes.
+* **SoconuscoCode:** Fundador y desarrollador principal de una agencia enfocada en la creación de aplicaciones web, software a la medida y desarrollo móvil.
+
+## Stack Tecnológico
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
 </p>
 
-<br/>
+## Formación y Logros
+* **Becario Santander** (Seleccionado en la convocatoria de Diciembre 2025).
+* **Especialización Académica Actual:** Estructuras de Datos, Programación Orientada a Objetos, y Electricidad y Electrónica.
 
-### 🚀 Sobre mí
-- 💻 Desarrollando **Medikay**, una plataforma SaaS para la gestión de clínicas y atención médica.
-- 🏢 Ofreciendo servicios de desarrollo web y software a través de mi agencia, **SoconuscoCode**.
-- 📚 Cursando materias de Estructuras de Datos, Programación Orientada a Objetos y Electrónica.
-- ⚡ **Dato curioso:** Siempre busco la manera de optimizar procesos con código (y cuando no estoy programando, seguro estoy jugando videojuegos o con mi gata Coco).
+<br>
 
-### 🛠️ Tecnologías y Lenguajes
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-</p>
-
-### 📈 Mis Estadísticas en GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=7&theme=radical"/>
-</p>
-
-### 📫 Cómo contactarme
-<p align="center">
+<div align="center">
   <a href="mailto:medikaysalud@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Contacto_Directo-181717?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+</div>
