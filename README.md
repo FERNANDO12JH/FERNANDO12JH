@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>José Fernando Domínguez Monzón</h1>
+  <h1>Fernando Domínguez </h1>
   <h3>Estudiante de Ingeniería en Desarrollo y Tecnologías de Software | Fundador de SoconuscoCode</h3>
 </div>
 
